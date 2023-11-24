@@ -1,0 +1,11 @@
+{
+  "name": "webviewtv",
+  "displayName": "webviewtv",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "8becd346-fc10-4a50-844f-912109ea13df"
+      }
+    }
+  }
+}
